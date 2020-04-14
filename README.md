@@ -1,2 +1,2 @@
-# -dexc-reflection
+# @dexc/reflection
 Javascript reflection utilities
